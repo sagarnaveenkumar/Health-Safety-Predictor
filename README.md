@@ -71,10 +71,13 @@ The application implements the following machine learning models:
  - ### To run the application, use the following command:
 
 - streamlit run app.py --server.address 127.0.0.1 --server.port 5000
+
 this command can use to run the custom port & address 
 
 - (or)
 
 - streamlit run app.py
-this command can use for the default port that is set on the .streamlit folder 
+  
+this command can use for the default port that is set on the .streamlit folder
+
 
