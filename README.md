@@ -59,7 +59,7 @@ The application implements the following machine learning models:
 - Seaborn
 - Plotly
 
-# check the data folder that contains csv files of the diseases raw data and processed data in that folder if it doesn't contain then download and place it in data folder for the to run the project 
+### check the data folder that contains csv files of the diseases raw data and processed data in that folder if it doesn't contain then download and place it in data folder for the to run the project 
 - the data sets are available on Kaggle online platform
 
 ## ensure install the modules using this below command:
