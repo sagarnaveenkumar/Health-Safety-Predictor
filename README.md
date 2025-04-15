@@ -68,7 +68,7 @@ The application implements the following machine learning models:
 
 ## Running the Application
 
- ## To run the application, use the following command:
+ ### To run the application, use the following command:
 
 - streamlit run app.py --server.address 127.0.0.1 --server.port 5000 
 
